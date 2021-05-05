@@ -3,7 +3,7 @@ const fetch = require('node-fetch')
 
 const config = {
     planetID: ,
-    authToken: ',
+    authToken: ,
     prefix: 
 }
 let user = {}
